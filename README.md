@@ -53,7 +53,6 @@ blueprint -install playerlisting.blueprint
 blueprint -install vanillatweaks.blueprint
 blueprint -install cpuburst.blueprint
 blueprint -install srvicimporter.blueprint
-bash <(curl -sL https://exeyarikus.info/pterodactyl-region/install)
 
 ```
 
@@ -69,7 +68,6 @@ bash <(curl -sL https://exeyarikus.info/pterodactyl-region/install)
 * [vanillatweaks.blueprint](https://builtbybit.com/resources/datapack-installer-for-blueprint.81356/?ref=discover)
 * [cpuburst.blueprint](https://builtbybit.com/resources/cpu-burst-reduce-lag-spikes-overload.108273/?ref=discover)
 * [srvicimport.blueprint](https://builtbybit.com/resources/mc-icon-importer-by-wammuhost.94596/?ref=discover)
-* [Region](https://builtbybit.com/resources/pterodactyl-region.73111/?ref=discover)
 
 ---
 
